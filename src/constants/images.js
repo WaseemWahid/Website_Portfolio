@@ -17,6 +17,7 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import sanity from '../assets/sanity.png'
 
 
 import profile from '../assets/profile3.png';
@@ -66,5 +67,6 @@ export default {
     spotify,
     logo1,
     logo2,
-    profile4
+    profile4,
+    sanity
 };
