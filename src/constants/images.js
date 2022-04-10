@@ -25,7 +25,7 @@ import profile4 from '../assets/profilepicture.png'
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import logo1 from '../assets/logo1.png'
-import logo2 from '../assets/logo.png-removebg-preview.png'
+import logo2 from '../assets/waseemlogo.png'
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
